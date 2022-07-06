@@ -1,0 +1,302 @@
+first 10 business_ids and ratings for the target users: 
+
+target: qOdmye8UQdqloVNE059PkQ business: [('B7crzLt3Cmq2Uy3JOiMnRw', 3.0), ('Fn20yKQ2Flzt0vuM5xPYvA', 4.0), ('HUYEadSbGSQNHXFmT2Ujjw', 4.0), ('JMq8vAXtgqPKkjIGJfg2Pg', 3.0), ('OllK5_S-7svgSwbUfx1xYA', 5.0), ('WmuoWetYC-4U2-V4taC6Wg', 5.0), ('nHFJtud7jWZhM9dHQ1eIRA', 5.0), ('s8qhewnW9LXH1WLFD3AbTw', 5.0), ('sjJOsKnXxsQodXMr1i8fsg', 4.0), ('v1M2DI3sATaUkHfZEuDStw', 3.0)]
+target: uEvusDwoSymbJJ0auR3muQ business: [('-sAr-LA9TsIdl37UjwBlvg', 1.0), ('0pIhgokp0NeM9h8oQQULOg', 5.0), ('FMOWO7_mj8lSZnV3WqpGiA', 5.0), ('H8qpFitIesth86zqR4cwYg', 5.0), ('I8GF2YtkYqTUaLg0m9hI9Q', 3.0), ('aRngE8bFUhtHs3INz_QMmA', 5.0), ('nOidqR9yk6clKeXbuT_gZg', 4.0), ('s86MNfRISPT9thjTS1Gnmw', 4.0), ('vrP4jcLcZ-qhYHaFj7YTKQ', 5.0), ('wUKzaS1MHg94RGM6z8u9mw', 4.0)]
+target: n00anwqzOaR52zgMRaZLVQ business: [('Ec9CBmL3285XkeHaNp-bSQ', 3.0), ('HJh47HQiP75ePRGg_RawaA', 4.0), ('ICdoTODBaprN0UReete9VQ', 5.0), ('R3Px9TqrfdUB2YzkBmR4Wg', 4.0), ('Tsf9H35WolvkwaU-eQR9dA', 5.0), ('W1Vn2G1disKO52jHARIZMA', 4.0), ('evFoqWk4bKTRlnarIAGgPw', 5.0), ('hCsJv234v62MgdsUU1j8dQ', 3.0), ('kABF0hYfAEnl166mn1zR1A', 5.0), ('sv694ZNBZfoC18OL5eRVuw', 5.0)]
+target: PomQayG1WhMxeSl1zohAUA business: [('3WipOV5JlbCEO_o0tV49yA', 3.0), ('A6rPIkIzxIeriuI4FFwxnw', 4.0), ('IcOvxejpd5FLFIkj20Opqg', 3.0), ('J3FUxMAHfCl-WFo86u5DqA', 4.0), ('J4CATH00YZrq8Bne2S4_cw', 2.0), ('JhQvfo_WfX10TG9_7VO14g', 2.0), ('Uuxwgc8kA88Cvt8LthoRdQ', 4.0), ('saUa3fUQ8rQQ3GhE1IfrsA', 4.0), ('wX1ORSDKPkA5ftE7F6UONw', 4.0), ('xvfAxe6F0azYjfLSm8ISMA', 5.0)]
+target: q6XnQNNOEgvZaeizUgHTSw business: [('3ajqOW9A7VhResA08I7RTg', 4.0), ('AV6weBrZFFBfRGCbcRGO4g', 3.0), ('E74g5nmRJj9LQS1uyKmq8A', 4.0), ('HqeTTdTOonnocJxBdHnLow', 5.0), ('P4Plzlfm4uJjNmH3wY4W1Q', 3.0), ('RLz9j9QASwaPXFM0i3kSHQ', 4.0), ('bxCKBd1qsafnKXlWrCK20g', 4.0), ('deuHIeaTY8ns_GZAxU5H9g', 5.0), ('t43tq66jU-sLXA-TVgKxrg', 4.0), ('xvfAxe6F0azYjfLSm8ISMA', 4.0)]
+
+ 
+
+#############User-User Collabrorative Filtering############### 
+
+Target User: uEvusDwoSymbJJ0auR3muQ 
+
+Business ID: 2weQS-RnoOBhb1KsHKyoSQ
+Predicted Rating: 5.000000000000001 
+
+Business ID: 3xmfT7l3xNH5LK1dLzfvGw
+Predicted Rating: 4.326076210211485 
+
+Business ID: 4JNXUYY8wbaaDmk3BPzlWw
+Predicted Rating: 3.169858053075139 
+
+Business ID: 5LNZ67Yw9RD6nf4_UhXOjw
+Predicted Rating: 5.0 
+
+Business ID: 6Q7-wkCPc1KF75jZLOTcMw
+Predicted Rating: 1.86932145877583 
+
+Business ID: 7sPNbCx7vGAaH7SbNPZ6oA
+Predicted Rating: 4.698502263629422 
+
+Business ID: ByFMv3p5X1aNeZhU61rDcA
+Predicted Rating: 3.6890243763247206 
+
+Business ID: DkYS3arLOhA8si5uUEmHOw
+Predicted Rating: 4.501286987800533 
+
+Business ID: EAwh1OmG6t6p3nRaZOW_AA
+Predicted Rating: 4.4931431567272915 
+
+Business ID: ECOkEVUodMLUxvI0PMI4gQ
+Predicted Rating: 2.7833471609490372 
+
+Target User: qOdmye8UQdqloVNE059PkQ 
+
+Business ID: 1ZnVfS-qP19upP_fwOhZsA
+Predicted Rating: 4.344501090208986 
+
+Business ID: 2weQS-RnoOBhb1KsHKyoSQ
+Predicted Rating: 3.746865759331203 
+
+Business ID: 4JNXUYY8wbaaDmk3BPzlWw
+Predicted Rating: 4.448400626257119 
+
+Business ID: 53tPoc8JgbTTTAMja_ciKQ
+Predicted Rating: 4.579763442273269 
+
+Business ID: 6Q7-wkCPc1KF75jZLOTcMw
+Predicted Rating: 1.7413045281724986 
+
+Business ID: 7sPNbCx7vGAaH7SbNPZ6oA
+Predicted Rating: 4.288651552787261 
+
+Business ID: 8F-UdXe_YylX3k0L1SEiRg
+Predicted Rating: 1.5312388802785732 
+
+Business ID: 9wjTzw8bEYOTQJk41V8WQw
+Predicted Rating: 3.70492556461691 
+
+Business ID: Az_60nNuh1FH8Ds8oasZjw
+Predicted Rating: 4.633442660347606 
+
+Business ID: DfgZlNgKwBvCpA_0alumXw
+Predicted Rating: 3.465683717202488 
+
+Target User: n00anwqzOaR52zgMRaZLVQ 
+
+Business ID: 2weQS-RnoOBhb1KsHKyoSQ
+Predicted Rating: 3.8271300611375816 
+
+Business ID: 6Q7-wkCPc1KF75jZLOTcMw
+Predicted Rating: 1.5472023802760158 
+
+Business ID: 6XJ4ddzEQ2GUQbLiXbgQ3Q
+Predicted Rating: 1.0 
+
+Business ID: 7sPNbCx7vGAaH7SbNPZ6oA
+Predicted Rating: 4.652428898837925 
+
+Business ID: BLIJ-p5wYuAhw6Pp6mh6mw
+Predicted Rating: 4.28846174904298 
+
+Business ID: E0OKctOhZpUQgwUUBc_RwA
+Predicted Rating: 4.332361905240747 
+
+Business ID: EAwh1OmG6t6p3nRaZOW_AA
+Predicted Rating: 4.04768583204486 
+
+Business ID: El4FC8jcawUVgw_0EIcbaQ
+Predicted Rating: 3.108180031876073 
+
+Business ID: GHS1rVjO-RMcRB6WJLpCDQ
+Predicted Rating: 3.8898874139147757 
+
+Business ID: Gaq3S9lmjXVcuDCZ8ulppw
+Predicted Rating: 4.098697871909542 
+
+Target User: PomQayG1WhMxeSl1zohAUA 
+
+Business ID: 2weQS-RnoOBhb1KsHKyoSQ
+Predicted Rating: 3.8418192613374837 
+
+Business ID: 4GXII-GU7S0ZyU6ElkhscQ
+Predicted Rating: 1.8296112038758758 
+
+Business ID: 4JNXUYY8wbaaDmk3BPzlWw
+Predicted Rating: 4.820308445069278 
+
+Business ID: 5LNZ67Yw9RD6nf4_UhXOjw
+Predicted Rating: 3.702108292893768 
+
+Business ID: 6Q7-wkCPc1KF75jZLOTcMw
+Predicted Rating: 1.404091275330653 
+
+Business ID: AV6weBrZFFBfRGCbcRGO4g
+Predicted Rating: 3.227542388015665 
+
+Business ID: C9ImzBi5fn742ZcAYDww2A
+Predicted Rating: 5.000000000000001 
+
+Business ID: DXlDzOcpdUE_F21tok0fgw
+Predicted Rating: 3.964728035363005 
+
+Business ID: DkYS3arLOhA8si5uUEmHOw
+Predicted Rating: 4.290469497417048 
+
+Business ID: EAwh1OmG6t6p3nRaZOW_AA
+Predicted Rating: 4.592566262713043 
+
+Target User: q6XnQNNOEgvZaeizUgHTSw 
+
+Business ID: 0AQnRQw34IQW9-1gJkYnMA
+Predicted Rating: 3.648295440243368 
+
+Business ID: 1p0Iu66E3ooq_tZkcmCZkg
+Predicted Rating: 4.999999999999999 
+
+Business ID: 3xmfT7l3xNH5LK1dLzfvGw
+Predicted Rating: 4.713598707397193 
+
+Business ID: 4GXII-GU7S0ZyU6ElkhscQ
+Predicted Rating: 1.7225039639681416 
+
+Business ID: 4JNXUYY8wbaaDmk3BPzlWw
+Predicted Rating: 3.9955396006994475 
+
+Business ID: 5LNZ67Yw9RD6nf4_UhXOjw
+Predicted Rating: 3.70747754517033 
+
+Business ID: 5Zc41a446gV3K_o7CDs69Q
+Predicted Rating: 1.5032169429577438 
+
+Business ID: 5iSmZO0SrKU6EoXK_1M8Kw
+Predicted Rating: 3.5157608694035005 
+
+Business ID: 5shgJB7a-2_gdnzc0gsOtg
+Predicted Rating: 4.669049896744467 
+
+Business ID: 6Q7-wkCPc1KF75jZLOTcMw
+Predicted Rating: 2.635388653896493 
+
+#############Item-Item Collabrorative Filtering############### 
+
+Target User: uEvusDwoSymbJJ0auR3muQ 
+
+Business ID: -yJHbYGTXp-Hkl7BnHYVrw
+Predicted Rating: 2.088102754081626 
+
+Business ID: 1-mycIcKFGbvqLE60XrwnQ
+Predicted Rating: 2.088102754081626 
+
+Business ID: 6VaeaNoma3zRLsIDrF1Cjg
+Predicted Rating: 2.0881027540816257 
+
+Business ID: 7XqrmQ6VpZOl7Wg2Rf-NgQ
+Predicted Rating: 2.0881027540816257 
+
+Business ID: 9vJOUVvCk7qqAqO87jMM9A
+Predicted Rating: 2.088102754081626 
+
+Business ID: AVXw5x9Sg-jD5EVcvpxrQA
+Predicted Rating: 2.0881027540816257 
+
+Business ID: DALNtVbXH9zAbwlPbjYYrg
+Predicted Rating: 2.0881027540816257 
+
+Business ID: Nn5gon8s64jVOZA-2ZkLcA
+Predicted Rating: 2.0881027540816257 
+
+Business ID: Ny5Naxr3SiYfQqAF1rIQ0Q
+Predicted Rating: 4.632114019897995 
+
+Business ID: OIL90Y4d7Zvko3YwyQUmYw
+Predicted Rating: 2.088102754081626 
+
+Target User: n00anwqzOaR52zgMRaZLVQ 
+
+Business ID: -yJHbYGTXp-Hkl7BnHYVrw
+Predicted Rating: 3.212373075548369 
+
+Business ID: 1-mycIcKFGbvqLE60XrwnQ
+Predicted Rating: 3.2123730755483697 
+
+Business ID: 6VaeaNoma3zRLsIDrF1Cjg
+Predicted Rating: 3.2123730755483693 
+
+Business ID: 7XqrmQ6VpZOl7Wg2Rf-NgQ
+Predicted Rating: 3.2123730755483693 
+
+Business ID: 9vJOUVvCk7qqAqO87jMM9A
+Predicted Rating: 3.2123730755483697 
+
+Business ID: AVXw5x9Sg-jD5EVcvpxrQA
+Predicted Rating: 3.21237307554837 
+
+Business ID: DALNtVbXH9zAbwlPbjYYrg
+Predicted Rating: 3.2123730755483697 
+
+Business ID: Nn5gon8s64jVOZA-2ZkLcA
+Predicted Rating: 3.2123730755483697 
+
+Business ID: OIL90Y4d7Zvko3YwyQUmYw
+Predicted Rating: 3.2123730755483697 
+
+Business ID: OqTGcS8a5w9iurkelB4Y_A
+Predicted Rating: 3.2123730755483693 
+
+Target User: PomQayG1WhMxeSl1zohAUA 
+
+Business ID: -yJHbYGTXp-Hkl7BnHYVrw
+Predicted Rating: 2.8485176642072356 
+
+Business ID: 1-mycIcKFGbvqLE60XrwnQ
+Predicted Rating: 2.848517664207235 
+
+Business ID: 6VaeaNoma3zRLsIDrF1Cjg
+Predicted Rating: 2.848517664207235 
+
+Business ID: 7XqrmQ6VpZOl7Wg2Rf-NgQ
+Predicted Rating: 2.8485176642072356 
+
+Business ID: 9vJOUVvCk7qqAqO87jMM9A
+Predicted Rating: 2.848517664207235 
+
+Business ID: AVXw5x9Sg-jD5EVcvpxrQA
+Predicted Rating: 2.848517664207235 
+
+Business ID: DALNtVbXH9zAbwlPbjYYrg
+Predicted Rating: 2.8485176642072356 
+
+Business ID: Nn5gon8s64jVOZA-2ZkLcA
+Predicted Rating: 2.8485176642072356 
+
+Business ID: Ny5Naxr3SiYfQqAF1rIQ0Q
+Predicted Rating: 4.841506350946109 
+
+Business ID: OIL90Y4d7Zvko3YwyQUmYw
+Predicted Rating: 2.848517664207236 
+
+Target User: q6XnQNNOEgvZaeizUgHTSw 
+
+Business ID: -yJHbYGTXp-Hkl7BnHYVrw
+Predicted Rating: 3.90236142487878 
+
+Business ID: 1-mycIcKFGbvqLE60XrwnQ
+Predicted Rating: 3.902361424878779 
+
+Business ID: 6VaeaNoma3zRLsIDrF1Cjg
+Predicted Rating: 3.902361424878779 
+
+Business ID: 7XqrmQ6VpZOl7Wg2Rf-NgQ
+Predicted Rating: 3.902361424878782 
+
+Business ID: 9vJOUVvCk7qqAqO87jMM9A
+Predicted Rating: 3.90236142487878 
+
+Business ID: AVXw5x9Sg-jD5EVcvpxrQA
+Predicted Rating: 3.9023614248787806 
+
+Business ID: DALNtVbXH9zAbwlPbjYYrg
+Predicted Rating: 3.90236142487878 
+
+Business ID: Nn5gon8s64jVOZA-2ZkLcA
+Predicted Rating: 3.902361424878781 
+
+Business ID: Ny5Naxr3SiYfQqAF1rIQ0Q
+Predicted Rating: 3.510811112047905 
+
+Business ID: OIL90Y4d7Zvko3YwyQUmYw
+Predicted Rating: 3.90236142487878 
+
