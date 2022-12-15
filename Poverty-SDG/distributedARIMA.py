@@ -1,10 +1,11 @@
 '''
 Name - SBU ID
 
+Ayush Dayani - 114241407
 Sudipto Bal - 113219784
 Keerthana Devadas - 113260469
 Manoj Shet - 113277283
-Ayush Dayani - 114241407
+
 
 Description - Code for calculating the pixel intensity using ARIMA for night time light. 
 
